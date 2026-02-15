@@ -49,7 +49,6 @@ npm run dev
 Приложение будет доступно по адресу http://localhost:5173
 
 Структура проекта
-text
 react-wether-/
 ├── public/
 │   └── cloud.svg
